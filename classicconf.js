@@ -21,22 +21,22 @@ Base Haikal Hw Mods : Copyan Dari Base Dika
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.gr = 'https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk'
+global.gr = 'https://wa.me/+2347046363976'
 global.ig = 'kipkoech' // ubah aja
-global.email = 'samuelcircute@gmail.com' //serah
+global.email = 'dechrisdesignz@gmail.com' //serah
 global.region = 'kenya' // serah
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'DRAGON' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'DECHRIS' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['254746764468'] // ubah aja pake nomor lu
+global.owner = ['2347046363976'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
-global.botname = '𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.botname = 'DECHRIS BOT' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.packname = '𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1' // ubah aja ini nama sticker
-global.author = '༻࿇𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴❖༺' // ubah aja ini nama sticker
-global.prefa = ['','!','.',',','🐤','🗿']
+global.author = '༻࿇DECHRIS❖༺' // ubah aja ini nama sticker
+global.prefa = ['+']
 global.sessionName = 'Tigersession'  //Gausah Juga
 global.sp = '⭔' // Gausah Juga
-global.autoviewstatus = process.env.autoviewstatus || "TRUE"
+global.autoviewstatus = process.env.autoviewstatus || "FALSE"
 global.wlcm = []
 global.wlcmm = []
 global.anticall = true
